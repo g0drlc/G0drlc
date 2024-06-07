@@ -3,11 +3,7 @@
 
 ## About Me
 
-I'm Victor Eke, an experienced software developer specialzing in frontend development and open-source passionate about learning and building open-source software that is beneficial to developers and the world at large.
-
-In my spare time, I love writing technical articles and building projects. You can find some of my latest posts on [freeCodeCamp][freecodecamp-site], my [personal blog][blog], and [hashnode][hashnode-site].
-
-Want to collaborate on a project together, feel free to connect with me and let's dive into the world of code to create wonders that would make even the Matrix jealous.
+Welcome! I'm a certified freelancer highly skilled in Blockchain Defi projects. With over 4 years of quality experience in this field, I've been able to help people all over the world be a successful Blockchain Project owner and help people market their products to their targeted and potential audience. Our public blockchain service includes everything you need to launch your own blockchain projects like Ethereum or BSC, including mainnet, testnet, explorers, bridge, dex, etc. Please kindly contact me. Thanks
 
 ## Tech Stack
 
