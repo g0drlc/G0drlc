@@ -5,7 +5,7 @@ Welcome! I'm a certified freelancer highly skilled in Blockchain Defi projects. 
 ###  Contact Me:
 
 <p> 
-    <a href="utommy.abs@gmail.com" target="_blank"><img alt="Email"
+    <a href="mailto:utommy.abs@gmail.com" target="_blank"><img alt="Email"
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://discordapp.com/users/367009301090402325" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
