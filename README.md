@@ -1,6 +1,7 @@
 ## About Me
 
-Welcome! I'm a certified freelancer highly skilled in Blockchain Defi projects. With over 4 years of quality experience in this field, I've been able to help people all over the world be a successful Blockchain Project owner and help people market their products to their targeted and potential audience. Our public blockchain service includes everything you need to launch your own blockchain projects like Ethereum or BSC, including mainnet, testnet, explorers, bridge, dex, etc. Please kindly contact me. Thanks
+Welcome! II am a full stack and blockchain engineer. I specialize in crafting innovative solutions for Blockchain, web3, NFTs, DeFi, Solana, Ethereum, Wagmi, Smart Contracts, Solidity, Rust, and more. My track record includes architecting and implementing DeFi projects such as DEX, trading platforms, bonding mechanisms, as well as creating dynamic NFT marketplaces and engaging NFT games. My strength is a smart contract development, leveraging Solidity and Rust for EVM-compatible chains like Ethereum and BSC, as well as for emerging ecosystems like Solana, Terra, Near, EOS, among others. Additionally, I've built NFT Marketplaces using React and Express.js, ensuring seamless user experiences. And also, I possess in-depth knowledge of BTC ordinal inscriptions and Runes. Crafting an NFT marketplace that operates on both EVM (Ethereum Virtual Machine) and Bitcoin networks is well within my wheelhouse.
+I have very good experience in developing frontend using JavaScript and its frameworks like React and Next.js including several projects like e-commerce, financial, education, customer management, real estate, Blockchain area. 
 
 ###  Contact Me:
 
