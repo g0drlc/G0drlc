@@ -1,6 +1,4 @@
-To include a unified table background color, you can use Markdown's HTML support to style the table directly. Below is the same table with a light gray background applied to the entire table using HTML:
 
----
 
 # 🚀 **Crypto Trading Bots Collection**  
 Welcome to my repository! Here, you’ll find a collection of advanced **crypto trading bots** and tools I’ve developed this year to empower developers and clients in the blockchain space. Each bot is uniquely designed to enhance trading efficiency, automate tasks, and achieve better market outcomes.  
