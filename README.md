@@ -49,6 +49,3 @@ Let’s collaborate or discuss ideas!
 
 💼 **[@g0drlc](https://t.me/g0drlc)**  
 
----
-
-This approach adds a light-gray background to the entire table, improving readability and making it visually distinct. Let me know if further customizations are needed!
