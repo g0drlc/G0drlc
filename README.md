@@ -4,7 +4,7 @@ Welcome to my repository! This year, I’ve expanded my expertise to develop **A
 
 ---
 
-## 📋 **Featured Projects**  
+## 📋 **Featured Projects on 2025**  
 
 <div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px;">
 
