@@ -36,6 +36,9 @@ AI agents are the next frontier in DeFi and blockchain, enabling smarter automat
 
 ---
 
+## 🚀 2024 Crypto Trading Bots Collection**  
+https://github.com/g0drlc/2024-Crypto-Trading-Bots-Collection
+
 ### 👨‍💻 **Connect with Me**  
 Let’s collaborate or discuss your ideas for DeFi and AI-driven blockchain projects!  
 
