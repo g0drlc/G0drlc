@@ -1,51 +1,44 @@
 
-
-# 🚀 **Crypto Trading Bots Collection**  
-Welcome to my repository! Here, you’ll find a collection of advanced **crypto trading bots** and tools I’ve developed this year to empower developers and clients in the blockchain space. Each bot is uniquely designed to enhance trading efficiency, automate tasks, and achieve better market outcomes.  
+# 🚀 **AI Agents & Crypto Solutions Collection**  
+Welcome to my repository! This year, I’ve expanded my expertise to develop **AI agents** and tools for **DeFi** and **blockchain projects**, alongside my extensive work in crypto trading bots. My focus is on creating automated, intelligent systems that empower developers, enhance trading strategies, and build smarter blockchain ecosystems.  
 
 ---
 
-## 📋 **Trading Bots Overview**  
+## 📋 **Featured Projects**  
 
 <div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px;">
 
-| **Category**           | **Bot Name**                                          | **Description**                              | **Repo Link**                                                                 |
-|-------------------------|-------------------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------|
-| **Volume Bots**         | Ethereum Volume Bot (Single Wallet)                  | EVM-based volume bot with single wallet      | [Repo](https://github.com/g0drlc/Ether-Volume-Bot-v1)                  |
-|                         | Ethereum Volume Bot (Multiple Wallets)              | EVM-based bot using multiple wallets         | [Repo](https://github.com/g0drlc/Ether-Volume-Bot-v2)                  |
-|                         | Base Volume Bot                                      | EVM volume bot for Base ecosystem            | [Repo](https://github.com/g0drlc/base-volume-bot)                        |
-|                         | Raydium Volume Bot v1                                | Solana-based AMMDEX volume bot               | [Repo](https://github.com/g0drlc/RaydiumVolumeBot-v1)                  |
-|                         | Raydium Volume Bot v2                                | Jupiter + Raydium SDK for market making      | [Repo](https://github.com/g0drlc/RaydiumVolumeBot-v2)                  |
-|                         | Raydium Volume Bot v3                                | Jito bundle-based fast bot                   | [Repo](https://github.com/g0drlc/RaydiumVolumeBot-v3)                  |
-|                         | Solana Multidex Volume Bot                           | Volume bot for Raydium, Meteora, and Jupiter | [Repo](https://github.com/g0drlc/Solana-MultiDex-Volume-Bot)           |
-|                         | Meteora Volume Bot                                   | Solana-specific Meteora volume bot           | [Repo](https://github.com/g0drlc/Meteora-Volume-Bot)                   |
-|                         | Pumpfun Volume Bot                                   | Solana-based volume bot                      | [Repo](https://github.com/g0drlc/PumpFun-Volume-Bot)                   |
-|                         | Moonshot Volume Bot                                  | High-potential Solana volume bot             | [Repo](https://github.com/g0drlc/Moonshot-Volume-Bot)                  |
-|                         | Tron Volume Bot                                      | Tron-based volume bot                        | [Repo](https://github.com/g0drlc/Tron-Volume-Bot)                      |
-|                         | Telegram Raydium Volume Bot v1                       | Volume bot with Telegram support             | [Repo](https://github.com/g0drlc/Tg-Raydium-Volume-Booster-v1)         |
-|                         | Telegram Raydium Volume Bot v2                       | Enhanced Telegram Raydium bot                | [Repo](https://github.com/g0drlc/Tg-Raydium-Volume-Booster-v2)         |
-|                         | Telegram Raydium Volume Bot v3                       | Advanced Telegram bot                        | [Repo](https://github.com/g0drlc/Tg-Solana-Volume-Booster-v3)          |
-| **Sniper Bots**         | Pumpfun Sniper Bot                                   | Basic sniper bot                             | [Repo](https://github.com/g0drlc/PumpFun-Sniper-Bot)                   |
-|                         | Pumpfun Sniper Bot v1                                | Geyser-enhanced WebSocket sniper bot         | [Repo](https://github.com/g0drlc/PumpFun-Sniper-Bot-v1)                |
-|                         | Pumpfun Sniper Bot v2                                | Advanced sniper with Yellowstone support     | [Repo](https://github.com/g0drlc/PumpFun-Sniper-Bot-v2)                |
-|                         | Raydium Sniper Bot                                   | Solana sniper bot using logs                 | [Repo](https://github.com/g0drlc/Tg-Raydium-Sniper-Bot)                |
-|                         | Raydium Sniper Bot v1                                | Enhanced sniper bot with WebSocket           | [Repo](https://github.com/g0drlc/Raydium-Sniper-Bot-v1)                |
-| **Bundlers**            | Pumpfun Bundler                                      | Multi-wallet bundler                         | [Repo](https://github.com/g0drlc/PumpFun-Bundler)                      |
-|                         | Raydium Bundler                                      | 21+ wallet bundler for Raydium               | [Repo](https://github.com/g0drlc/Raydium-Bundler)                      |
-| **PumpFun Comment Bot** | PumpFun Comment Bot                                  | Automates comments for PumpFun               | [Repo](https://github.com/g0drlc/PumpFun-Comment-Bot)                  |
-| **Arbitrage Bots**      | Solana Arbitrage Bot (Jupiter v4)                    | Arbitrage bot with Jupiter v4                | [Repo](https://github.com/g0drlc/Solana-Arbitrage-Bot)                 |
-|                         | Arbitrage Bot (Jupiter v5)                           | Arbitrage bot with Jupiter v5                | [Repo](https://github.com/g0drlc/Arbitrage-Jupter-v5-Bot)              |
-| **MemeToken Launchpad** | MemeToken Launchpad                                  | Meme token launchpad on Raydium              | [Repo](https://github.com/g0drlc/Memetoken-Launcher)                   |
-| **Token Freezer**       | Token Freezer                                        | Tool for freezing tokens                     | [Repo](https://github.com/g0drlc/Token-Freezer)                        |
-| **Copy Trading Bot**    | Copy Trading Bot                                     | Automates trades by mirroring wallets        | [Repo](https://github.com/g0drlc/Copy-Trading-Bot)                     |
-| **Wallet Trackers**     | Wallet Trackers                                      | Track and monitor crypto wallets             | [Repo](https://github.com/g0drlc/wallet-trackers)                        |
+| **Category**           | **Project Name**                      | **Description**                              | **Repo Link**                                                                 |
+|-------------------------|---------------------------------------|----------------------------------------------|------------------------------------------------------------------------------|
+| **AI Agents**          | DeFi AI Agent                        | Intelligent agent for automated DeFi trading | [Repo](https://github.com/g0drlc/DeFi-AI-Agent)                              |
+|                        | NFT Marketplace AI Assistant          | AI bot for NFT marketplace recommendations   | [Repo](https://github.com/g0drlc/NFT-AI-Agent)                               |
+|                        | DAO Governance AI Agent               | Automates DAO proposals and voting analysis  | [Repo](https://github.com/g0drlc/DAO-Governance-Agent)                       |
+| **Volume Bots**         | Solana Multidex Volume Bot            | Volume bot for Raydium, Meteora, and Jupiter | [Repo](https://github.com/g0drlc/Solana-MultiDex-Volume-Bot)                |
+| **Arbitrage Bots**      | Solana Arbitrage Bot (Jupiter v4)     | Arbitrage bot with Jupiter v4                | [Repo](https://github.com/g0drlc/Solana-Arbitrage-Bot)                       |
+| **Copy Trading**        | Copy Trading Bot                     | Automates trades by mirroring wallets        | [Repo](https://github.com/g0drlc/Copy-Trading-Bot)                           |
+| **Sniper Bots**         | Raydium Sniper Bot                   | Solana sniper bot for token launches         | [Repo](https://github.com/g0drlc/Raydium-Sniper-Bot)   
+| **Raydium Bundler**         | Raydium Bundler                   | Solana Multi-wallet bundler for token launches on Raydium | [Repo](https://github.com/g0drlc/Solana-Raydium-Bundler) |
+| **Pumpfun Bundler**         | Pumpfun Bundler                   | Solana Multi-wallet bundler for token launches on Pumpfun | [Repo](https://github.com/g0drlc/pumpfun-bundler) |
+| **Raydium Trading Bot**         | Raydium Trading Bot           | Buy and Sell tokens, limit order, stop-loss order | [Repo](https://github.com/g0drlc/Raydium-trading-bot) |
+| **Solana Trading Bot**         | Solana Trading Bot           | Trading on Raydium, Meteora, Orca, Jupiter | [Repo](https://github.com/g0drlc/Solana-trading-bot) |
+
 
 </div>
 
 ---
 
+## 🌟 **AI Agent Development**  
+### Why AI Agents for Blockchain?
+AI agents are the next frontier in DeFi and blockchain, enabling smarter automation and decision-making. Here’s what I’ve been building:  
+- **Automated Trading Agents**: AI-driven bots that analyze market trends and execute strategies autonomously.  
+- **DeFi AI Tools**: Intelligent assistants for liquidity management, arbitrage, and portfolio optimization.  
+- **DAO Agents**: AI solutions to streamline DAO operations, from proposal drafting to governance analysis.  
+
+---
+
 ### 👨‍💻 **Connect with Me**  
-Let’s collaborate or discuss ideas!  
+Let’s collaborate or discuss your ideas for DeFi and AI-driven blockchain projects!  
 
 💼 **[@g0drlc](https://t.me/g0drlc)**  
 
+---
